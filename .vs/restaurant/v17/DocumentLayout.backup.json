@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\file\\C#\\WPF_Dog\\restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\viewmodels\\dishmenuitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:viewmodels\\dishmenuitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\services\\mockorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:services\\mockorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\services\\xmldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:services\\xmldataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|d:\\file\\c#\\wpf_dog\\restaurant\\data\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA8F8464-53D0-404C-9106-09B19F34D16C}|restaurant.csproj|solutionrelative:data\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Models\\Restaurant.cs",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Models\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:46:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Models\\Dish.cs",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\Models\\Dish.cs",
+              "RelativeToolTip": "Models\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:45:26.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:42:38.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DishMenuItemViewModel.cs",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\ViewModels\\DishMenuItemViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DishMenuItemViewModel.cs",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\ViewModels\\DishMenuItemViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DishMenuItemViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:51:35.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvy8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:52:42.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T15:42:38.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\Services\\IDataService.cs",
+              "RelativeDocumentMoniker": "Services\\IDataService.cs",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\Services\\IDataService.cs",
+              "RelativeToolTip": "Services\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:47:26.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:47:48.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MockOrderService.cs",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\Services\\MockOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\MockOrderService.cs",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\Services\\MockOrderService.cs",
+              "RelativeToolTip": "Services\\MockOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:49:18.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XmlDataService.cs",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\Services\\XmlDataService.cs",
+              "RelativeDocumentMoniker": "Services\\XmlDataService.cs",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\Services\\XmlDataService.cs",
+              "RelativeToolTip": "Services\\XmlDataService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:49:44.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Data.xml",
+              "DocumentMoniker": "D:\\file\\C#\\WPF_Dog\\restaurant\\Data\\Data.xml",
+              "RelativeDocumentMoniker": "Data\\Data.xml",
+              "ToolTip": "D:\\file\\C#\\WPF_Dog\\restaurant\\Data\\Data.xml",
+              "RelativeToolTip": "Data\\Data.xml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-01T15:44:48.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
